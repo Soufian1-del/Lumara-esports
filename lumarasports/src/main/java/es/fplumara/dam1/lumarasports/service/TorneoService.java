@@ -1,4 +1,4 @@
-package java.es.fplumara.dam1.lumarasports.service;
+package es.fplumara.dam1.lumarasports.service;
 
 public class TorneoService {
 }

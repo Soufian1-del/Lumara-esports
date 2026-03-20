@@ -1,4 +1,4 @@
-package java.es.fplumara.dam1.lumarasports.controller;
+package es.fplumara.dam1.lumarasports.controller;
 
 public class EquipoController {
 }
